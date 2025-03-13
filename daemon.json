@@ -1,7 +1,6 @@
 {
-	msg:"create /etc/docker directory firstly, and then touch file named daemon.json"
+	"comment":"create /etc/docker directory firstly, and then create file named daemon.json using below contents, finally run: systemctl restart docker"
 },
-
 
 
 {
