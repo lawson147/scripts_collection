@@ -1,0 +1,9 @@
+{
+    "server":"hk001.dogsvip.site",
+    "server_port":16001,
+    "local_address":"127.0.0.1",
+    "local_port":8890,
+    "password":"c4d739b8-c7c3-4b28-92df-c415b75e5f18",
+    "timeout":60,
+    "method":"aes-256-gcm"
+}
